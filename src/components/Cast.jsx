@@ -32,7 +32,7 @@ const Cast = () => {
                   width="100"
                 />
               ) : (
-                <img scr={imagePlaceholder} alt="" width="250" />
+                <img scr={imagePlaceholder} alt="" width="100" height="200" />
               )}
               <p>{cast.name}</p>
               <p>{cast.character}</p>

@@ -48,7 +48,9 @@ const MovieDetails = () => {
           <img scr={imagePlaceholder} alt="" width="250" />
         )}
         <MovieInfo>
-          <h2>{movieInfo.title}</h2>
+          <h2>
+            {movieInfo.title} {movieInfo.release_date.slice(0, 4)}
+          </h2>
           <p>User Score: {Math.round(movieInfo.vote_average * 10)}%</p>
           <h3>Overview</h3>
           <p>{movieInfo.overview}</p>
