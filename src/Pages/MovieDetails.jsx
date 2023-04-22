@@ -16,7 +16,7 @@ import { AiOutlineArrowLeft } from 'react-icons/ai';
 const MovieDetails = () => {
   const { movieId } = useParams();
   const location = useLocation();
-  const [movieInfo, setMoiveInfo] = useState({});
+  const [movieInfo, setMoiveInfo] = useState(null);
   const genres = useRef();
 
   useEffect(() => {
@@ -33,6 +33,7 @@ const MovieDetails = () => {
   }, [movieId]);
 
   return (
+    movieInfo && (
     <div>
       <GoBack to={location.state?.from ?? '/movies'}>
         <AiOutlineArrowLeft /> Go back
@@ -75,6 +76,7 @@ const MovieDetails = () => {
         <Outlet />
       </Suspense>
     </div>
+    )
   );
 };
 
