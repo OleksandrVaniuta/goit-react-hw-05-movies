@@ -49,7 +49,7 @@ const MovieDetails = () => {
         )}
         <MovieInfo>
           <h2>
-            {movieInfo.title} {movieInfo.release_date.slice(0, 4)}
+            {movieInfo.title} ({movieInfo.release_date.slice(0, 4)})
           </h2>
           <p>User Score: {Math.round(movieInfo.vote_average * 10)}%</p>
           <h3>Overview</h3>
