@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.40c3203f.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.156775e7.js",
     "static/js/586.d8eea73e.chunk.js": "/goit-react-hw-05-movies/static/js/586.d8eea73e.chunk.js",
-    "static/js/173.9c19fb19.chunk.js": "/goit-react-hw-05-movies/static/js/173.9c19fb19.chunk.js",
+    "static/js/173.3b6bebc0.chunk.js": "/goit-react-hw-05-movies/static/js/173.3b6bebc0.chunk.js",
     "static/js/597.0174b8fc.chunk.js": "/goit-react-hw-05-movies/static/js/597.0174b8fc.chunk.js",
     "static/js/681.19476c7d.chunk.js": "/goit-react-hw-05-movies/static/js/681.19476c7d.chunk.js",
     "static/js/686.62050818.chunk.js": "/goit-react-hw-05-movies/static/js/686.62050818.chunk.js",
@@ -11,9 +11,9 @@
     "static/media/image-placeholder.png": "/goit-react-hw-05-movies/static/media/image-placeholder.9769f4a34001939bf5b0.png",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.40c3203f.js.map": "/goit-react-hw-05-movies/static/js/main.40c3203f.js.map",
+    "main.156775e7.js.map": "/goit-react-hw-05-movies/static/js/main.156775e7.js.map",
     "586.d8eea73e.chunk.js.map": "/goit-react-hw-05-movies/static/js/586.d8eea73e.chunk.js.map",
-    "173.9c19fb19.chunk.js.map": "/goit-react-hw-05-movies/static/js/173.9c19fb19.chunk.js.map",
+    "173.3b6bebc0.chunk.js.map": "/goit-react-hw-05-movies/static/js/173.3b6bebc0.chunk.js.map",
     "597.0174b8fc.chunk.js.map": "/goit-react-hw-05-movies/static/js/597.0174b8fc.chunk.js.map",
     "681.19476c7d.chunk.js.map": "/goit-react-hw-05-movies/static/js/681.19476c7d.chunk.js.map",
     "686.62050818.chunk.js.map": "/goit-react-hw-05-movies/static/js/686.62050818.chunk.js.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.40c3203f.js"
+    "static/js/main.156775e7.js"
   ]
 }
